@@ -6,4 +6,4 @@ All the homeworks and lectures can be found in [the official website](https://sp
 
 ## Thanks
 
-Thanks for my friends CHIU,YU-YANG and Wang, YU-KAI's help in the homeworks.
+Thanks for my friends CHIU,YU-YANG and WANG, YU-KAI's help in the homeworks.
